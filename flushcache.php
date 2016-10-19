@@ -1,6 +1,6 @@
 <?php
 /**
- * Simple Script in PHP to 
+ * Simple Script in PHP to clear sucuri's cloudproxy cache via php 
  * 
  * Author: Salvador Aguilar
  * Email: sal.aguilar81@gmail.com
